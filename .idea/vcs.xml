@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/LAB-ABSTRACT/MENDOZA-RAMIREZ-VELASQUEZ-SABANA-POOB-2021-1-LAB-ABSTRACT-CLASS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/LAB-INHERITANCE-1.2.0/MENDOZA-RAMIREZ-VELASQUEZ-SABANA-POOB-2021-1-LAB-INHERITANCE" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MENDOZA-RAMIREZ-VELASQUEZ-SABANA-POO-2021-1-PROYECT" vcs="Git" />
